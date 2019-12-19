@@ -5,7 +5,7 @@ var exphbs = require("express-handlebars");
 //require body-parser                                
 var bodyParser = require("body-parser");
 //require burgers_controllers
-var routes = require("./controllers/burgers_controller.js");
+var routes = require("./controller/burgers_controller.js");
 //express call using app
 var app = express();
 //local host port 8080                        
