@@ -9,7 +9,7 @@ var routes = require("./controller/burgers_controller.js");
 //express call using app
 var app = express();
 //local host port 8080                        
-var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 8081;
 
 //public folder
 app.use(express.static("public"));

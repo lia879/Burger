@@ -1,7 +1,7 @@
 //require Express
 var express = require("express");
 //requires burger.js                      
-var burger = require("../models/burgers.js");
+var burger = require("../models/burger");
 //express routing           
 var router = express.Router();
 
