@@ -4,6 +4,7 @@ var express = require("express");
 var burger = require("../models/burger");
 //express routing           
 var router = express.Router();
+var test = "test"
 
 //GET REQUEST
 router.get("/", function (req, res) {
