@@ -13,13 +13,7 @@ npm install mysql
 npm install express-handlebars
 npm install body-parser
 
-Technologies Used
-HTML
-CSS
-Javascript
-Node.js
-MySQL Workbench
-Heroku and JAWSDb add-on
+Technologies: HTML | CSS | Javascript| Node.js | MySQL Workbench | Heroku | JAWSDb add-on
 
 
 ![image](https://user-images.githubusercontent.com/54521457/71627677-82b3ff80-2bb9-11ea-8335-62ca005e51ff.png)
